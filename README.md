@@ -2,7 +2,7 @@
 
 <img src="header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A929EE&center=true&vCenter=true&width=600&lines=Python+%7C+AI%2FML+%7C+Data+Science,Building+practical%2C+real-world+software" alt="Typing SVG" />
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Python%20%7C%20AI%2FML%20%7C%20Data%20Science%22%2C%22color%22%3A%22%23A929EE%22%7D%2C%7B%22text%22%3A%22Building%20practical%2C%20real-world%20software%22%2C%22color%22%3A%22%23A929EE%22%7D%2C%7B%22text%22%3A%22Software%20Developer%22%2C%22color%22%3A%22%23A929EE%22%7D%5D&font=Montserrat&width=750&height=90&fontSize=20&center=true&vCenter=true&border=false&backgroundOpacity=0&repeat=true&pause=700&typingSpeed=0.3&deleteSpeed=0.3" alt="Typing SVG" />
 
 </div>
 
@@ -39,8 +39,7 @@
 
 ![](https://streak-stats.demolab.com/?user=Nilesh98-codes&theme=dark&hide_border=false)<br/>
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh98-codes&theme=react-dark&hide_border=true&area=true&color=A929EE&line=A929EE&point=FFFFFF" width="90%"/>
+![Github Activity Graph](https://activity-graph-iota.vercel.app/graph?username=Nilesh98-codes&theme=react-dark&hide_border=true&area=true&color=A929EE&line=A929EE&point=FFFFFF)
 
 </div>
 
