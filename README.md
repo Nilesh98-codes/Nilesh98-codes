@@ -2,7 +2,6 @@
 
 <img src="header.svg" width="100%"/>
 
-<img src="tagline.svg" width="700"/>
 
 </div>
 
