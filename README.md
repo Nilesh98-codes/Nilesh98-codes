@@ -58,4 +58,9 @@
 <a href="https://github.com/Nilesh98-codes"><img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+
+<div align= "center">
+  Thanks for visiting my profile💜
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%"/>
