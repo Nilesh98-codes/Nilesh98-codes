@@ -11,7 +11,6 @@
 
 - 🎓 B.Sc. IT graduate interested in **Python, AI/ML, Data Science**, and Software Development
 -  I enjoy building **practical applications** and exploring how AI can be integrated into real-world systems
-- 🙌 I'm dope like that
 -  Based in Mumbai, India
 
 
