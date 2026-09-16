@@ -36,7 +36,7 @@
 
 <br>
 
-## GitHub Stats
+## My GitHub Stats
 
 <div align="center">
 
