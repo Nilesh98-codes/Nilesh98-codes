@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="https://nilesh-chidambaram.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A929EE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nilesh-chidambaram-649268368/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/nilesh-chidambaram"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nileshchidambaram66@gmail.com"><img src="https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://github.com/Nilesh98-codes"><img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
