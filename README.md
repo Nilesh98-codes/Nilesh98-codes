@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 B.Sc. IT graduate interested in **Python, AI/ML, Data Science**, and Software Development
+-  B.Sc. IT graduate interested in **Python, AI/ML, Data Science**, and Software Development
 -  I enjoy building **practical applications** and exploring how AI can be integrated into real-world systems
 -  Based in Mumbai, India
 
@@ -67,7 +67,7 @@
 
 
 <div align= "center">
-  Thanks for visiting my profile💜
+  Thank you for visiting my profile💜
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%"/>
